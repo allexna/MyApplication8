@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application8</string>
+    <string name="hello_Word">Привет!</string>
+    <string name="red">red</string>
+    <string name="yel">yellow</string>
+    <string name="green">green</string>
+</resources>
